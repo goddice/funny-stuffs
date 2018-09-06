@@ -1,2 +1,2 @@
 # code-repo
-Some algorithm coding summary.
+Some algorithm summary.
