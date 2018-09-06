@@ -2,5 +2,5 @@
 
 **1. Coin Change Problem**
 
-For m **distinct** coins a[0...m-1], and a target value n. How many ways of making change for n? (Each coin have **infinite** quantities).
+For m **distinct** coins c[0], c[1], ..., c[m-1]. How many ways of making change for n? (Each coin have **infinite** amounts).
 
