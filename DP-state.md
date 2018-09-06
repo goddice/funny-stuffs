@@ -8,4 +8,4 @@ For `m` **distinct** coins `{c[1] ... c[m]}`. How many ways of making change for
 
 `dp[i][j] = dp[i][j-1] + dp[i-c[j]][j-1] + dp[i-2*c[j]][j-1] + ... = sum(dp[i-k*c[j]][j-1]) for k in [0, i/c[j]]`
 
-Reference: [Positive solutions for a linear diophantine equation](https://math.stackexchange.com/questions/30638/count-the-number-of-positive-solutions-for-a-linear-diophantine-equation)
+Reference: [Positive solutions for a linear diophantine equation](https://math.stackexchange.com/questions/30638/count-the-number-of-positive-solutions-for-a-linear-diophantine-equation#answer-929664)
