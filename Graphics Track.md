@@ -4,7 +4,7 @@
 
 [CS164 - Computing with Physical Objects: Algorithms for Shape and Motion](http://graphics.stanford.edu/courses/cs164-09-spring/ "Computing with Physical Objects: Algorithms for Shape and Motion")
 
-[CS178 - ](http://graphics.stanford.edu/courses/cs178/ "Digital Photography")
+[CS178 - Digital Photography](http://graphics.stanford.edu/courses/cs178/ "Digital Photography")
 
 [CS205a - Mathematical Methods for Robotics, Vision, and Graphics](http://graphics.stanford.edu/courses/cs205a/index.html "Mathematical Methods for Robotics, Vision, and Graphics")
 
@@ -35,3 +35,9 @@
 [CS468 - Data-Driven Shape Anlaysis](http://graphics.stanford.edu/courses/cs468-14-spring/ "Data-Driven Shape Anlaysis")
 
 [CS478 - Computational Imaging and Display](http://graphics.stanford.edu/courses/cs478/ "Computational Imaging and Display")
+
+**Princeton**
+
+[COS526 - Advanced Computer Graphics](http://www.cs.princeton.edu/courses/archive/fall18/cos526/cos526.html "Advanced Computer Graphics")
+
+[COS426 - Computer Graphics](http://www.cs.princeton.edu/courses/archive/spring18/cos426/ "Computer Graphics")
