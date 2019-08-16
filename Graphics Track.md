@@ -1,6 +1,6 @@
 **Stanford**
 
-[CS148  - Introduction to Computer Graphics and Imaging](http://web.stanford.edu/class/cs148/ "Introduction to Computer Graphics and Imaging")
+[CS148 &nbsp;- Introduction to Computer Graphics and Imaging](http://web.stanford.edu/class/cs148/ "Introduction to Computer Graphics and Imaging")
 
 [CS164  - Computing with Physical Objects: Algorithms for Shape and Motion](http://graphics.stanford.edu/courses/cs164-09-spring/ "Computing with Physical Objects: Algorithms for Shape and Motion")
 
