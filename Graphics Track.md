@@ -22,9 +22,9 @@
 
 [CS368 &nbsp;&nbsp;- Geometric Algorithms](http://graphics.stanford.edu/courses/cs368-06-spring/ "Geometric Algorithms")
 
-[CS448i ;&nbsp- Computational Imaging and Display](http://stanford.edu/class/ee367/ "Computational Imaging and Display")
+[CS448i &nbsp;- Computational Imaging and Display](http://stanford.edu/class/ee367/ "Computational Imaging and Display")
 
-[CS448f ;&nbsp- Image Processing for Photography and Vision](http://web.stanford.edu/class/cs448f/ "Image Processing for Photography and Vision")
+[CS448f &nbsp;- Image Processing for Photography and Vision](http://web.stanford.edu/class/cs448f/ "Image Processing for Photography and Vision")
 
 [CS468 &nbsp;&nbsp;- Geometry Processing Algorithms](http://graphics.stanford.edu/courses/cs468-12-spring/ "Geometry Processing Algorithms")
 
