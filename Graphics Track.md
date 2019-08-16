@@ -4,7 +4,7 @@
 
 [CS164 &nbsp;- Computing with Physical Objects: Algorithms for Shape and Motion](http://graphics.stanford.edu/courses/cs164-09-spring/ "Computing with Physical Objects: Algorithms for Shape and Motion")
 
-[CS178 &nbsp; &nbsp;- Digital Photography](http://graphics.stanford.edu/courses/cs178/ "Digital Photography")
+[CS178 &nbsp;&nbsp;- Digital Photography](http://graphics.stanford.edu/courses/cs178/ "Digital Photography")
 
 [CS205a - Mathematical Methods for Robotics, Vision, and Graphics](http://graphics.stanford.edu/courses/cs205a/index.html "Mathematical Methods for Robotics, Vision, and Graphics")
 
