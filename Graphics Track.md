@@ -1,8 +1,8 @@
 **Stanford**
 
-[CS148 &nbsp;- Introduction to Computer Graphics and Imaging](http://web.stanford.edu/class/cs148/ "Introduction to Computer Graphics and Imaging")
+[CS148 &nbsp;&nbsp;- Introduction to Computer Graphics and Imaging](http://web.stanford.edu/class/cs148/ "Introduction to Computer Graphics and Imaging")
 
-[CS164 &nbsp;- Computing with Physical Objects: Algorithms for Shape and Motion](http://graphics.stanford.edu/courses/cs164-09-spring/ "Computing with Physical Objects: Algorithms for Shape and Motion")
+[CS164 &nbsp;&nbsp;- Computing with Physical Objects: Algorithms for Shape and Motion](http://graphics.stanford.edu/courses/cs164-09-spring/ "Computing with Physical Objects: Algorithms for Shape and Motion")
 
 [CS178 &nbsp;&nbsp;- Digital Photography](http://graphics.stanford.edu/courses/cs178/ "Digital Photography")
 
@@ -10,9 +10,9 @@
 
 [CS205b - Mathematical Methods for Fluids, Solids and Interfaces](https://web.stanford.edu/class/cs205b/ "Mathematical Methods for Fluids, Solids and Interfaces")
 
-[CS248  - Interactive Computer Graphics](http://web.stanford.edu/class/cs248/ "Interactive Computer Graphics")
+[CS248 &nbsp;&nbsp;- Interactive Computer Graphics](http://web.stanford.edu/class/cs248/ "Interactive Computer Graphics")
 
-[CS268  - Geometric Algorithms](http://graphics.stanford.edu/courses/cs268-16-fall/ "Geometric Algorithms")
+[CS268 &nbsp;&nbsp;- Geometric Algorithms](http://graphics.stanford.edu/courses/cs268-16-fall/ "Geometric Algorithms")
 
 [CS348a - Computer Graphics: Geometric Modeling/Processing](http://graphics.stanford.edu/courses/cs348a-17-winter/ "Computer Graphics: Geometric Modeling/Processing")
 
@@ -20,21 +20,21 @@
 
 [CS348c - Computer Graphics: Animation and Simulation](http://graphics.stanford.edu/courses/cs348c/ "Computer Graphics: Animation and Simulation")
 
-[CS368  - Geometric Algorithms](http://graphics.stanford.edu/courses/cs368-06-spring/ "Geometric Algorithms")
+[CS368 &nbsp;&nbsp;- Geometric Algorithms](http://graphics.stanford.edu/courses/cs368-06-spring/ "Geometric Algorithms")
 
 [CS448i - Computational Imaging and Display](http://stanford.edu/class/ee367/ "Computational Imaging and Display")
 
 [CS448f - Image Processing for Photography and Vision](http://web.stanford.edu/class/cs448f/ "Image Processing for Photography and Vision")
 
-[CS468  - Geometry Processing Algorithms](http://graphics.stanford.edu/courses/cs468-12-spring/ "Geometry Processing Algorithms")
+[CS468 &nbsp;&nbsp;- Geometry Processing Algorithms](http://graphics.stanford.edu/courses/cs468-12-spring/ "Geometry Processing Algorithms")
 
-[CS468  - Machine Learning for 3D Data](http://graphics.stanford.edu/courses/cs468-17-spring/ "Machine Learning for 3D Data")
+[CS468 &nbsp;&nbsp;- Machine Learning for 3D Data](http://graphics.stanford.edu/courses/cs468-17-spring/ "Machine Learning for 3D Data")
 
-[CS468  - Differential Geometry for Computer Science](http://graphics.stanford.edu/courses/cs468-13-spring/ "Differential Geometry for Computer Science")
+[CS468 &nbsp;&nbsp;- Differential Geometry for Computer Science](http://graphics.stanford.edu/courses/cs468-13-spring/ "Differential Geometry for Computer Science")
 
-[CS468  - Data-Driven Shape Anlaysis](http://graphics.stanford.edu/courses/cs468-14-spring/ "Data-Driven Shape Anlaysis")
+[CS468 &nbsp;&nbsp;- Data-Driven Shape Anlaysis](http://graphics.stanford.edu/courses/cs468-14-spring/ "Data-Driven Shape Anlaysis")
 
-[CS478  - Computational Imaging and Display](http://graphics.stanford.edu/courses/cs478/ "Computational Imaging and Display")
+[CS478 &nbsp;&nbsp;- Computational Imaging and Display](http://graphics.stanford.edu/courses/cs478/ "Computational Imaging and Display")
 
 **Princeton**
 
