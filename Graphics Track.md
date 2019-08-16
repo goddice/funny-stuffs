@@ -2,9 +2,9 @@
 
 [CS148 &nbsp;- Introduction to Computer Graphics and Imaging](http://web.stanford.edu/class/cs148/ "Introduction to Computer Graphics and Imaging")
 
-[CS164  - Computing with Physical Objects: Algorithms for Shape and Motion](http://graphics.stanford.edu/courses/cs164-09-spring/ "Computing with Physical Objects: Algorithms for Shape and Motion")
+[CS164 &nbsp;- Computing with Physical Objects: Algorithms for Shape and Motion](http://graphics.stanford.edu/courses/cs164-09-spring/ "Computing with Physical Objects: Algorithms for Shape and Motion")
 
-[CS178  - Digital Photography](http://graphics.stanford.edu/courses/cs178/ "Digital Photography")
+[CS178 &nbsp;- Digital Photography](http://graphics.stanford.edu/courses/cs178/ "Digital Photography")
 
 [CS205a - Mathematical Methods for Robotics, Vision, and Graphics](http://graphics.stanford.edu/courses/cs205a/index.html "Mathematical Methods for Robotics, Vision, and Graphics")
 
