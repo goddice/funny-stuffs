@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cs148-opengl4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs148opengl4">
+				<Option output="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/cs148opengl4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSHADER_PATH=/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/shaders"/>
+					<Add option="-DASSET_PATH=/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assets"/>
+					<Add directory="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/."/>
+					<Add directory="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/./external/glm"/>
+					<Add directory="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/./external/assimp/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs148opengl4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cs148opengl4/fast">
+				<Option output="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/cs148opengl4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSHADER_PATH=/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/shaders"/>
+					<Add option="-DASSET_PATH=/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assets"/>
+					<Add directory="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/."/>
+					<Add directory="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/./external/glm"/>
+					<Add directory="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/./external/assimp/include"/>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 cs148opengl4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment1/Assignment1.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment1/Assignment1.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment2/Assignment2.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment2/Assignment2.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment3/Assignment3.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment3/Assignment3.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment4/Assignment4.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment4/Assignment4.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment5/Assignment5.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/assignment5/Assignment5.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Application.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Application.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/MediaLayer.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/MediaLayer.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/ForwardRenderer.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/ForwardRenderer.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Renderer.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Renderer.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/RenderingObject.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/RenderingObject.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Shaders/BlinnPhongShader.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Shaders/BlinnPhongShader.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Shaders/CubeMapShader.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Shaders/CubeMapShader.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Shaders/EpicShader.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Shaders/EpicShader.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Shaders/ShaderProgram.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Shaders/ShaderProgram.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Textures/CubeMapTexture.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Textures/CubeMapTexture.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Textures/Texture.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Textures/Texture.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Textures/Texture2D.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Rendering/Textures/Texture2D.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/Camera/Camera.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/Camera/Camera.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/Camera/PerspectiveCamera.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/Camera/PerspectiveCamera.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/Light/Light.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/Light/Light.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/Light/LightProperties.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/Scene.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/Scene.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/SceneObject.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Scene/SceneObject.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Utility/Mesh/Loading/MeshLoader.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Utility/Mesh/Loading/MeshLoader.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Utility/Mesh/Simple/PrimitiveCreator.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Utility/Mesh/Simple/PrimitiveCreator.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Utility/Texture/TextureLoader.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/Utility/Texture/TextureLoader.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/common.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/common/core.h">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/main.cpp">
+			<Option target="cs148opengl4"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake/FindFreeImage.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake/FindSDL2.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

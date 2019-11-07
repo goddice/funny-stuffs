@@ -1,0 +1,3 @@
+/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/CMakeFiles/cs148opengl4.dir
+/home/goddice/Dropbox/goddice/courses/stanford/funny-stuffs/cs148fall2019/cmake-build-debug/CMakeFiles/edit_cache.dir
