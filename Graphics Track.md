@@ -41,3 +41,6 @@
 [COS526 - Advanced Computer Graphics](http://www.cs.princeton.edu/courses/archive/fall18/cos526/cos526.html "Advanced Computer Graphics")
 
 [COS426 - Computer Graphics](http://www.cs.princeton.edu/courses/archive/spring18/cos426/ "Computer Graphics")
+
+**CMU**
+[CMU 15-462/15-662 - Computer Graphics](http://15462.courses.cs.cmu.edu/fall2015/ "COMPUTER GRAPHICS")
