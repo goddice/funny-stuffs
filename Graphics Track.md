@@ -43,4 +43,5 @@
 [COS426 - Computer Graphics](http://www.cs.princeton.edu/courses/archive/spring18/cos426/ "Computer Graphics")
 
 **CMU**
+
 [CMU 15-462/15-662 - Computer Graphics](http://15462.courses.cs.cmu.edu/fall2015/ "COMPUTER GRAPHICS")
