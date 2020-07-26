@@ -53,3 +53,5 @@
 [Implementation for paper "Disentangled Representation Learning for 3D Face Shape" CVPR 2019](https://github.com/zihangJiang/DR-Learning-for-3D-Face "3D FACE")
 
 [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks, CVPR 2020](https://github.com/FuxiCV/3D-Face-GCNs "3D Face")
+
+[Multilinear Face Model Reconstruction](https://github.com/phg1024/MultilinearReconstruction "3D Face")
