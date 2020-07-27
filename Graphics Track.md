@@ -55,3 +55,5 @@
 [Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks, CVPR 2020](https://github.com/FuxiCV/3D-Face-GCNs "3D Face")
 
 [Multilinear Face Model Reconstruction](https://github.com/phg1024/MultilinearReconstruction "3D Face")
+
+[Using modified BiSeNet for face parsing in PyTorch](https://github.com/zllrunning/face-parsing.PyTorch "3D Face")
