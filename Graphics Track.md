@@ -57,3 +57,5 @@
 [Multilinear Face Model Reconstruction](https://github.com/phg1024/MultilinearReconstruction "3D Face")
 
 [Using modified BiSeNet for face parsing in PyTorch](https://github.com/zllrunning/face-parsing.PyTorch "3D Face")
+
+[Pretrained Pytorch face detection (MTCNN) and recognition (InceptionResnet) models](https://github.com/timesler/facenet-pytorch "3D Face")
