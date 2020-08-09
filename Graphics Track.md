@@ -59,3 +59,5 @@
 [Using modified BiSeNet for face parsing in PyTorch](https://github.com/zllrunning/face-parsing.PyTorch "3D Face")
 
 [Pretrained Pytorch face detection (MTCNN) and recognition (InceptionResnet) models](https://github.com/timesler/facenet-pytorch "3D Face")
+
+[Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency[ECCV 2020]](https://github.com/jiaxiangshang/MGCNet "3D Face")
