@@ -61,3 +61,6 @@
 [Pretrained Pytorch face detection (MTCNN) and recognition (InceptionResnet) models](https://github.com/timesler/facenet-pytorch "3D Face")
 
 [Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency[ECCV 2020]](https://github.com/jiaxiangshang/MGCNet "3D Face")
+
+**Books**
+[Game Programming](https://theswissbay.ch/pdf/Gentoomen%20Library/Game%20Development/Programming/)
