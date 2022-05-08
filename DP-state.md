@@ -20,12 +20,12 @@ Reference: [Positive solutions for a linear diophantine equation](https://math.s
 
 `if j = 0`
 
-`   dp[i][j] = to_number(s[1...i])`
+`  dp[i][j] = to_number(s[1...i])`
 
 `else if j >= i`
 
-`   dp[i][j] = Infinity (j >= i)`
+`  dp[i][j] = Infinity (j >= i)`
 
 `else`
 
-`   dp[i][j] = min{dp[k][j-1] + to_number(s[k+1...i]) for k in [j, i-1]}`
+`  dp[i][j] = min{dp[k][j-1] + to_number(s[k+1...i]) for k in [j, i-1]}`
